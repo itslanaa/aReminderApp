@@ -1,0 +1,427 @@
+[26-Oct-2021 14:14:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yaelahka/public_html/taskmanager/dashboard/add_task.php on line 3
+[26-Oct-2021 14:14:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/yaelahka/public_html/taskmanager/dashboard/add_task.php on line 25
+[26-Oct-2021 14:32:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:50:27 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/all_tasks.php on line 64
+[26-Oct-2021 14:50:27 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/all_tasks.php on line 150
+[26-Oct-2021 14:50:27 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/all_tasks.php on line 201
+[26-Oct-2021 14:50:27 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/all_tasks.php on line 364
+[26-Oct-2021 14:50:27 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/all_tasks.php on line 498
+[26-Oct-2021 14:51:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 14:58:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/sent_reminder.php on line 33
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 240
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 254
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 268
+[26-Oct-2021 16:03:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 282
+[27-Oct-2021 12:42:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 67
+[27-Oct-2021 12:42:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 154
+[27-Oct-2021 12:42:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 213
+[27-Oct-2021 12:42:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 241
+[27-Oct-2021 12:45:24 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 64
+[27-Oct-2021 12:45:24 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 150
+[27-Oct-2021 12:45:24 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 201
+[27-Oct-2021 12:45:24 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 364
+[27-Oct-2021 12:45:24 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 498
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 240
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 254
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 268
+[27-Oct-2021 14:35:22 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 282
+[27-Oct-2021 14:36:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:36:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:38:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:41:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:44:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:44:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:45:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 179
+[27-Oct-2021 14:55:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:55:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:58:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:58:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:58:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 14:58:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:08:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:08:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:08:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:08:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:11:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:11:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:13:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 167
+[27-Oct-2021 15:13:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 167
+[27-Oct-2021 15:13:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 167
+[27-Oct-2021 15:21:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 167
+[27-Oct-2021 15:28:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:28:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:28:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:28:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:28:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:36:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 15:36:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 168
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 240
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 254
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 268
+[27-Oct-2021 20:31:29 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 282
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 64
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 150
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 224
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 357
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 491
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 625
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 759
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 893
+[27-Oct-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/weekly_tasks.php on line 1027
+[28-Oct-2021 00:33:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 184
+[28-Oct-2021 00:35:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 184
+[28-Oct-2021 00:35:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 184
+[28-Oct-2021 00:35:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 184
+[28-Oct-2021 00:37:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 195
+[28-Oct-2021 00:37:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 195
+[28-Oct-2021 00:39:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'tt_description' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 196
+[28-Oct-2021 00:39:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'tt_description' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 196
+[28-Oct-2021 00:40:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'tt_description' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 196
+[28-Oct-2021 00:40:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 205
+[28-Oct-2021 00:43:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '>' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 205
+[28-Oct-2021 00:48:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '>' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 205
+[28-Oct-2021 00:49:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 205
+[28-Oct-2021 00:50:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 205
+[28-Oct-2021 00:55:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Reminder' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 216
+[28-Oct-2021 00:55:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Reminder' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 216
+[28-Oct-2021 00:56:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Reminder' (T_STRING), expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 216
+[28-Oct-2021 00:56:30 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 00:56:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 00:56:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 35
+[28-Oct-2021 00:56:54 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 64
+[28-Oct-2021 00:56:54 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 150
+[28-Oct-2021 00:56:54 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 201
+[28-Oct-2021 00:56:54 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 364
+[28-Oct-2021 00:56:54 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/all_tasks.php on line 498
+[28-Oct-2021 01:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 01:00:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 01:00:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 35
+[28-Oct-2021 01:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 01:00:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 10
+[28-Oct-2021 01:00:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/yaelahka/demo.km-dev.or.id/dashboard/sent_reminder.php on line 35
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 240
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 254
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 268
+[28-Oct-2021 02:20:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 282
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[30-Oct-2021 15:21:05 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 304
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 308
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 314
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 315
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Notice:  Undefined index: end in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 316
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 320
+[02-Nov-2021 14:18:32 Asia/Jakarta] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 323
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 304
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 308
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 314
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 315
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Notice:  Undefined index: end in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 316
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 320
+[02-Nov-2021 14:19:02 Asia/Jakarta] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 323
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 304
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 308
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 314
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 315
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Notice:  Undefined index: end in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 316
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 320
+[02-Nov-2021 14:27:53 Asia/Jakarta] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 323
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 304
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 308
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Notice:  Undefined index: title in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 314
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 315
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Notice:  Undefined index: end in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 316
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 320
+[02-Nov-2021 14:42:20 Asia/Jakarta] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 323
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[08-Nov-2021 14:25:12 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[08-Nov-2021 15:32:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[08-Nov-2021 15:35:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 15
+[08-Nov-2021 15:35:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 15
+[08-Nov-2021 15:36:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 15
+[08-Nov-2021 15:36:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 15
+[08-Nov-2021 15:43:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 16
+[08-Nov-2021 16:22:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 16
+[08-Nov-2021 16:22:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 16
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[08-Nov-2021 17:01:17 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[09-Nov-2021 11:45:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 16
+[09-Nov-2021 11:50:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 11:50:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 11:50:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 11:50:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:09:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:09:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:21:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:21:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:21:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:22:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:22:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:25:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:26:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:35:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 12:53:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:08:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:08:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:10:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:11:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:11:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:11:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:11:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:11:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:24:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:24:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:24:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:24:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:24:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:31:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:31:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:31:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:31:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:32:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:32:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:32:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:32:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:32:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 13:37:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 67
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[09-Nov-2021 23:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[09-Nov-2021 23:08:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:08:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:13:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:14:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:15:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:16:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:17:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:18:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:18:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 10
+[09-Nov-2021 23:20:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:20:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:23:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:23:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[09-Nov-2021 23:23:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 11:12:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 13:22:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 13:22:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 13:37:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 13:38:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 13:46:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 14:05:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 14:40:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 14:40:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:47:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:47:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:47:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:49:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:50:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[10-Nov-2021 20:56:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 9
+[13-Nov-2021 14:39:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 14:40:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 15:06:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 15:06:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 15:08:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 15:08:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 9
+[13-Nov-2021 15:56:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fecth_assoc() in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yaelahka/public_html/taskmanager/dashboard/display_data.php on line 8
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 236
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 250
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 264
+[14-Nov-2021 10:28:52 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 278
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 236
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 250
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 264
+[14-Nov-2021 11:48:49 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 278
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 236
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 250
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 264
+[14-Nov-2021 14:54:19 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 278
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 236
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 250
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 264
+[14-Nov-2021 20:12:50 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 278
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 67
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 154
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 196
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 236
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 250
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 264
+[14-Nov-2021 21:59:56 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/index.php on line 278
+[14-Nov-2021 23:57:41 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 67
+[14-Nov-2021 23:57:41 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 154
+[14-Nov-2021 23:57:41 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 213
+[14-Nov-2021 23:57:41 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 241
+[14-Nov-2021 23:58:23 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION0 in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 7
+[14-Nov-2021 23:58:23 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 7
+[14-Nov-2021 23:58:23 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 11
+[14-Nov-2021 23:58:23 Asia/Jakarta] PHP Notice:  Undefined variable: nama_gambar_baru in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 42
+[15-Nov-2021 00:59:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 56
+[15-Nov-2021 00:59:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 56
+[15-Nov-2021 01:20:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 17
+[15-Nov-2021 01:20:46 Asia/Jakarta] PHP Notice:  Undefined variable: nama_gambar_baru in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 49
+[15-Nov-2021 01:23:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 17
+[15-Nov-2021 01:43:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 68
+[15-Nov-2021 01:47:03 Asia/Jakarta] PHP Notice:  Undefined variable: nama_gambar_baru in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 44
+[15-Nov-2021 01:50:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 224
+[15-Nov-2021 01:50:31 Asia/Jakarta] PHP Notice:  Undefined variable: nama_gambar_baru in /home/yaelahka/public_html/taskmanager/dashboard/profile_action.php on line 44
+[15-Nov-2021 01:50:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 224
+[15-Nov-2021 01:50:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/public_html/taskmanager/dashboard/profile.php on line 224
+[15-Nov-2021 02:21:40 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/yaelahka/public_html/taskmanager/dashboard/delete_task.php on line 4
+[15-Nov-2021 02:24:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/yaelahka/public_html/taskmanager/dashboard/delete_task.php on line 4
+[15-Nov-2021 23:04:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/yaelahka/demo.km-dev.or.id/dashboard/delete_task.php on line 4
+[15-Nov-2021 23:04:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/today_tasks.php on line 64
+[15-Nov-2021 23:04:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/today_tasks.php on line 154
+[15-Nov-2021 23:04:13 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/today_tasks.php on line 203
+[15-Nov-2021 23:04:14 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/display_data.php on line 5
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 65
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 154
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_name in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 196
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 236
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 250
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 264
+[15-Nov-2021 23:04:18 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/index.php on line 278
+[23-Nov-2021 09:07:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 65
+[23-Nov-2021 09:07:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 154
+[23-Nov-2021 09:07:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 213
+[23-Nov-2021 09:07:07 Asia/Jakarta] PHP Notice:  Undefined index: tr_id in /home/yaelahka/demo.km-dev.or.id/dashboard/profile.php on line 240

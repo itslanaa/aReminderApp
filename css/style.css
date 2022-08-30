@@ -1,0 +1,183 @@
+/* Smooth Scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-family: Viga;
+    font-size: 23px;
+}
+
+.navbar {
+    background-color: #429E9E;
+}
+
+.navbar-nav {
+    font-family: sans-serif;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.nav-link {
+    margin-left: 1rem;
+}
+
+/* Jumbotron */
+.jumbotron {
+    height: 640px;
+}
+
+.jumbotron h1{
+    font-family: viga;
+}
+
+.jumbotron .display-4 {
+    font-size: 30px;
+    color: #41C2C2;
+    margin-top: 211.5px;
+    -webkit-text-stroke-color: #429E9E;
+    -webkit-text-stroke-width: 1px;
+}
+
+.jumbotron span {
+    color: #429E9E;
+}
+
+.jumbotron p {
+    color: #41C2C2;
+    font-size: 22px;
+    font-family: viga;
+}
+
+/* Info Panel */
+.info-panel {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    background-color: #fff;
+    margin-top: -130px;
+    padding: 30px;
+}
+
+.info-panel img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.info-panel p {
+    font-size: 25px;
+    font-family: Helvetica;
+    color: #429E9E;
+    margin-top: 5px;
+    -webkit-text-stroke-color: #429E9E;
+    -webkit-text-stroke-width: 0.2px;
+}
+
+/* Utility */
+.tombol {
+    border-radius: 20px;
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border: 3px solid #41C2C2;
+    font-family: sans-serif;
+    background-color: #429E9E;
+    margin-left: 1rem;
+}
+
+.btnget {
+    border-radius: 20px;
+    border: 3px solid #41C2C2;
+    color: #429E9E;
+    font-family: viga;
+}
+
+/* About Us */
+.aboutus {
+    background-color: #41C2C2;
+    margin-top: -100px;
+    height: 773px;
+    padding-top: 220px;
+}
+
+.col img {
+    width: 357px;
+    height: 500px;
+    margin-left: 160px;
+    border-radius: 12px;
+}
+
+.col p {
+    color: #fff;
+    font-size: 36px;
+    margin-left: -100px;
+    width: 600px;
+    line-height: 48px;
+    margin-top: 50px;
+    font-weight: 400px;
+    font-family: viga;
+}
+
+.col span {
+    color: #318A8A;
+    font-size: 36px;
+    font-weight: 400px;
+}
+
+/* Features */
+.features {
+    margin-top: -50px;
+    font-family: viga;
+    background-color: #fff;
+    padding-top: 50px;
+}
+
+.features hr{
+    width: 120px;
+    height: 0px;
+    border: 6px solid #41C2C2;
+    background-color: #41C2C2;
+    border-radius: 6px;
+    margin-top: -8px;
+}
+
+.features h1{
+    color: #429E9E;
+    text-align: center;
+    font-size: 36px;
+}
+
+.features p{
+    color:#429E9E;
+    text-align: center;
+}
+
+.card{
+    width: 403px;
+    height: 225px;
+    margin-top: 43px;
+    border: 2px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+/* Footer */
+.footer{
+    margin-top: 170px;
+}
+
+.contacts{
+    maargin-top: 120px;
+}
+
+/* Desktop Version */
+@media (min-width: 992px) {
+    width: 100%;
+}

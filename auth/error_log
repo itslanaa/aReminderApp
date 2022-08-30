@@ -1,0 +1,112 @@
+[26-Oct-2021 13:07:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 2
+[26-Oct-2021 13:10:02 Asia/Jakarta] PHP Warning:  require(/home/usernamecPanel/public_html/taskmanager/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 5
+[26-Oct-2021 13:10:02 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/usernamecPanel/public_html/taskmanager/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 5
+[26-Oct-2021 13:11:16 Asia/Jakarta] PHP Warning:  require(/home/yaelahka/public_html/taskmanager/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 2
+[26-Oct-2021 13:11:16 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/yaelahka/public_html/taskmanager/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 2
+[26-Oct-2021 13:16:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 2
+[26-Oct-2021 13:36:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\src\PHPMailer' not found in /home/yaelahka/public_html/taskmanager/auth/sentmail.php:11
+Stack trace:
+#0 /home/yaelahka/public_html/taskmanager/auth/signup.php(108): include()
+#1 {main}
+  thrown in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 11
+[26-Oct-2021 13:36:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\src\PHPMailer' not found in /home/yaelahka/public_html/taskmanager/auth/sentmail.php:11
+Stack trace:
+#0 /home/yaelahka/public_html/taskmanager/auth/signup.php(108): include()
+#1 {main}
+  thrown in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 11
+[26-Oct-2021 13:44:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\src\PHPMailer' not found in /home/yaelahka/public_html/taskmanager/auth/sentmail.php:11
+Stack trace:
+#0 /home/yaelahka/public_html/taskmanager/auth/signup.php(108): include()
+#1 {main}
+  thrown in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 11
+[26-Oct-2021 13:47:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\src\PHPMailer' not found in /home/yaelahka/public_html/taskmanager/auth/sentmail.php:11
+Stack trace:
+#0 /home/yaelahka/public_html/taskmanager/auth/signup.php(106): include()
+#1 {main}
+  thrown in /home/yaelahka/public_html/taskmanager/auth/sentmail.php on line 11
+[26-Oct-2021 14:07:16 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/public_html/taskmanager/auth/reset.php on line 93
+[26-Oct-2021 14:07:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/public_html/taskmanager/auth/reset.php on line 136
+[27-Oct-2021 08:50:25 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 08:50:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 08:50:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 08:52:33 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/yaelahka/demo.km-dev.or.id/auth/forgot_password.php on line 92
+[27-Oct-2021 08:53:01 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 08:53:01 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 113
+[27-Oct-2021 08:53:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 08:57:07 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 92
+[27-Oct-2021 08:57:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 117
+[27-Oct-2021 08:57:07 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 08:57:19 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 92
+[27-Oct-2021 08:57:19 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 08:58:34 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 92
+[27-Oct-2021 08:58:34 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 112
+[27-Oct-2021 08:58:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 115
+[27-Oct-2021 08:58:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 134
+[27-Oct-2021 09:00:14 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 92
+[27-Oct-2021 09:00:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 134
+[27-Oct-2021 09:00:16 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 92
+[27-Oct-2021 09:00:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 134
+[27-Oct-2021 09:02:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:02:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:02:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:02:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:02:59 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:02:59 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:01 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:03:01 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:03:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:03:03 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:03:03 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:03:04 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:03:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:05 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:03:05 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:03:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 98
+[27-Oct-2021 09:03:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 98
+[27-Oct-2021 09:03:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 98
+[27-Oct-2021 09:03:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:03:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:04:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:04:29 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:04:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:04:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:04:30 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:04:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:04:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:04:45 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:04:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:04:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 91
+[27-Oct-2021 09:04:55 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 94
+[27-Oct-2021 09:04:55 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 114
+[27-Oct-2021 09:04:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 117
+[27-Oct-2021 09:04:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:05:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 114
+[27-Oct-2021 09:06:13 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:06:13 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 113
+[27-Oct-2021 09:06:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:06:25 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:06:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 136
+[27-Oct-2021 09:08:19 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 114
+[27-Oct-2021 09:08:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 118
+[27-Oct-2021 09:08:45 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:08:45 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 114
+[27-Oct-2021 09:08:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 118
+[27-Oct-2021 09:08:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 09:10:34 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:10:34 Asia/Jakarta] PHP Notice:  Undefined variable: email in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 114
+[27-Oct-2021 09:10:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 117
+[27-Oct-2021 09:10:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 09:11:13 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:11:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 117
+[27-Oct-2021 09:11:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 09:12:48 Asia/Jakarta] PHP Notice:  Undefined index: key in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 93
+[27-Oct-2021 09:12:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yaelahka/demo.km-dev.or.id/auth/reset.php:4) in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 109
+[27-Oct-2021 09:12:48 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/yaelahka/demo.km-dev.or.id/auth/reset.php on line 135
+[27-Oct-2021 15:29:46 Asia/Jakarta] PHP Notice:  Undefined index: Email in /home/yaelahka/demo.km-dev.or.id/auth/sentmail.php on line 30
+[27-Oct-2021 15:29:46 Asia/Jakarta] PHP Notice:  Undefined index: Name in /home/yaelahka/demo.km-dev.or.id/auth/sentmail.php on line 30
