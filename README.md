@@ -12,8 +12,8 @@ This is an application that I made for an internship assignment,
 actually there are still many that are lacking, in terms of features, bugs, etc.  
 I share this source-code for free, it is strictly forbidden to sell! 
 <h4>How To Use? </h4>
-1.) The script only works and works fine on the hosting server (requires cronjob settings)
- setting the cronjob using the command: php /home/yourcPanelUser/public_html/dashboard/sent_reminder.php
+<b>1.)</b> The script only works and works fine on the hosting server (requires cronjob settings)
+ setting the cronjob using the command:<br>php /home/yourcPanelUser/public_html/dashboard/sent_reminder.php<br>
  tailored to each cPanel directory owned.  setting cronjob every 5 minutes.<br>
-2.) Setting the config according to the user, db that has been created on the hosting server (.sql and config files are in the "db" folder).<br>
-3.) PHP Mailer is adapted to an email account that has been created on the hosting server, or you can use a free mailer with a google account.
+<b>2.)</b> Setting the config according to the user, db that has been created on the hosting server (.sql and config files are in the "db" folder).<br>
+<b>3.)</b> PHP Mailer is adapted to an email account that has been created on the hosting server, or you can use a free mailer with a google account.
