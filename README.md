@@ -10,10 +10,10 @@
 <h4>Attention!</h4>
 This is an application that I made for an internship assignment, 
 actually there are still many that are lacking, in terms of features, bugs, etc.  
-I share this source-code for free, it is strictly forbidden to sell it!
+I share this source-code for free, it is strictly forbidden to sell! 
 <h4>How To Use? </h4>
 1.) The script only works and works fine on the hosting server (requires cronjob settings)
  setting the cronjob using the command: php /home/yourcPanelUser/public_html/dashboard/sent_reminder.php
- tailored to each cPanel directory owned.  setting cronjob every 5 minutes.
-2.) Setting the config according to the user, db that has been created on the hosting server (.sql and config files are in the "db" folder). 
+ tailored to each cPanel directory owned.  setting cronjob every 5 minutes.<br>
+2.) Setting the config according to the user, db that has been created on the hosting server (.sql and config files are in the "db" folder).<br>
 3.) PHP Mailer is adapted to an email account that has been created on the hosting server, or you can use a free mailer with a google account.
