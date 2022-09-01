@@ -4,7 +4,7 @@
 <p>More demo preview: <a href="https://km-dev.or.id/demo/aReminder-App/">https://km-dev.or.id/demo/</a></p>
 <hr>
 
-<b>Built with :</b>HTML, CSS, JS (Bootstrap 4), Native PHP MySQLI + PHPMAILER. 
+<b>Built with : </b>HTML, CSS, JS (Bootstrap 4), Native PHP MySQLI + PHPMAILER. 
 
 <hr>
 <h4>Attention!</h4>
